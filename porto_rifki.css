@@ -35,7 +35,7 @@ body{
 
 .sidebar{
     width:50%;
-    background: linear-gradient(180deg, navy, cream);
+    background: linear-gradient(180deg, navy, blue);
     padding:20px;
 }
 .font{
@@ -53,7 +53,7 @@ body{
 
 .main{
     width:100%;
-    background: linear-gradient(180deg, navy, cream);
+    background: linear-gradient(180deg, navy, blue);
     color:white;
     padding:20px;
     min-height:450px;
@@ -61,7 +61,7 @@ body{
 }
 
 .footer{
-    background: linear-gradient(0deg, navy, cream);
+    background: linear-gradient(0deg, navy, blue);
     color:rgb(255, 255, 255);
     text-align:center;
     padding:20px;
